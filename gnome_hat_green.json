@@ -2,8 +2,8 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/MizunoArchive/green_wool",
-		"particle": "block/MizunoArchive/green_wool"
+		"0": "block/green_wool",
+		"particle": "block/green_wool"
 	},
 	"elements": [
 		{
